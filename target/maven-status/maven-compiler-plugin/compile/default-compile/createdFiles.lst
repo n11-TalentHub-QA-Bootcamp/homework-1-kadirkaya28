@@ -1,0 +1,3 @@
+filter\CustomLogFilter.class
+steps\VotesSteps.class
+cucumberoptions\RunCukeTest.class
